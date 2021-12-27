@@ -1,0 +1,19 @@
+.\" Manpage for grepara.
+.\" Contact codmyhesap@gmail.com to correct errors or typos.
+.TH man 8 "27 Ara 2021" "1.0" "grepara. man page"
+.SH NAME
+grepara \- Enter and search term 
+.SH SYNOPSIS
+grepara.sh 
+.SH DESCRIPTION
+It lists the files according to the keyword you are looking for..
+.SH OPTIONS
+The grepadd does not take any options. However, you can search keywords.
+.SH SEE ALSO
+ grepadd(2)
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+GitHub (Ramazan-xcod3r)
+.SH CONTACT
+codmyhesap@gmail.com to correct errors or typos.
